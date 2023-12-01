@@ -1,5 +1,5 @@
 ### Hi there 👋
- #My name is Alex
+ #My name is Alexey, I entered the Peter the Great Polytechnic University to major in radio engineering, I am interested in football, chess, and I adore sports and theater. I studied at theater school for 9 years, received a clean certificate, after which I spent another 2 years unofficially studying theater and playing a big role in a long-running play.
 <!--
 **ALEXEY-EFREMOV/ALEXEY-EFREMOV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
